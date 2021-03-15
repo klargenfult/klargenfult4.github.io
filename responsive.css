@@ -1,0 +1,96 @@
+@media(max-width:890px){
+  .header-right{
+    display:none;
+  }
+  .ttt{
+    display:block;
+  }
+  .t{
+    display:none;
+  }
+  .tt{
+    display:inline-block;
+  }
+  .e{
+    display:none;
+  }
+  .ee{
+    display:block;
+    font-size:20px;
+  }
+  .exp-wrapper{
+    display:none;
+  }
+  .exp-wrapper2{
+    display:block;
+  }
+}
+@media(max-width:780px){
+  .exp-wrapper2{
+    display:none;
+  }
+  .exp-wrapper3{
+    display:block;
+  }
+}
+@media(max-width:600px){
+  .ee{
+    font-size:15px;
+  }
+}
+@media(max-width:400px){
+  .start h1{
+    font-size:15px;
+  }
+  .start img{
+    height:38px;
+  }
+  .tt h1{
+    font-size:35px;
+  }
+  .ee{
+    font-size:10px;
+  }
+  .expp img{
+    width:300px;
+  }
+  *{
+    font-family:"MS PGothic";
+  }
+  .exp-heading{
+    font-size:15px;
+  }
+  .exp11 img{
+    width:80px;
+  }
+  .exp22 img{
+    width:80px;
+  }
+  .exp333 img{
+    width:80px;
+  }
+  .exp4444 img{
+    width:80px;
+  }
+  .exp11 a{
+    padding-left:15px;
+    font-size:18px;
+  }
+  .exp22 a{
+    padding-left:15px;
+    font-size:18px;
+  }
+  .ex333 a{
+    padding-left:15px;
+    font-size:15px;
+  }
+  .exp-wrapper3{
+    display:none;
+  }
+  .exp-wrapper4{
+    display:block;
+  }
+  .exp4444 a{
+    padding-left:15px;
+  }
+}  
