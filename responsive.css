@@ -106,4 +106,13 @@
   background: #ffffff;
   transition: .7s;
 }
+    .ttt{
+    display:none;
+  }
+  .he{
+    display: block;
+  }
+ .wrapper{
+   overflow-x:hidden;
+  }  
 }  
